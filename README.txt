@@ -27,7 +27,7 @@ Installation
 ------------
 
 1. Clone the repository:
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/ak-palla/Conversational-RAG-Q-A-With-PDF-Uploads-with-Chat-History.git
     cd your-repo-name
 
 2. Create and activate a virtual environment:
