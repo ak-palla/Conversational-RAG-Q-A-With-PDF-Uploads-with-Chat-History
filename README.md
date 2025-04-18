@@ -1,0 +1,2 @@
+# Conversational-RAG-Q-A-With-PDF-Uploads-with-Chat-History
+A Streamlit app that lets users upload PDFs and ask questions in natural language. It uses LangChain, ChromaDB, and ChatGroq to provide accurate, context-aware answers with persistent chat history.  Features 1. Upload and query PDFs 2. Conversational memory with LangChain 3. HuggingFace embeddings + Chroma for retrieval 4. Powered by ChatGroq LLM
